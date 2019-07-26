@@ -1,7 +1,12 @@
 # Prime React Native
 
-[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://app_descco.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/descco-tools/prime-react-native.svg?style=flat-square)](https://github.com/descco-tools/prime-react-native/issues)
+[![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/prime-react-native.svg)](https://github.com/org-victorinox/prime-react-native/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/prime-react-native.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/prime-react-native.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/prime-react-native.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/prime-react-native.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/prime-react-native/total.svg)
 
 ## Install
 
@@ -26,7 +31,7 @@ react-native run-ios
 
 ## Log
 
-Check [Releases](https://github.com/descco-tools/prime-react-native/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/prime-react-native/releases) for detailed changelog.
 
 ## License
 
